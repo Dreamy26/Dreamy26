@@ -1,9 +1,9 @@
-### Hi there 👋🏽
+# You Made It! 💜
 
 <!--
 **Dreamy26/Dreamy26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Let me add you to the VIP list:
+### Let me add you to the VIP list:
 
 
 - 🧚 I’m currently tinkering on C# DotNet projects & learning with my SQUAD #cherryOnTech...
@@ -14,4 +14,7 @@ Let me add you to the VIP list:
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adryennewilson/) ...
 - 💁🏽‍♀️ Pronouns: She Me Us Them ...
 - 🥳 Color Theme: Teal and Purple!!...
+
+<img align="left" width="300" height="300" src="https://user-images.githubusercontent.com/53249146/95519246-c16db600-0992-11eb-95e1-7cd1b4feaf4f.png" alt="build your own octocat">. 
+
 
