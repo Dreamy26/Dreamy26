@@ -1,5 +1,9 @@
+
+<img align="right" width="300"  src="https://user-images.githubusercontent.com/53249146/95529167-34cdf280-09a8-11eb-9ae3-6e1cd0bc5190.jpg"  alt="skates" > 
+
+
 # 💜 You Made It! 💜
-<img src="https://user-images.githubusercontent.com/53249146/95529167-34cdf280-09a8-11eb-9ae3-6e1cd0bc5190.jpg"  height="150" alt="skates" > 
+
 
 
 
