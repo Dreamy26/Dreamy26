@@ -1,16 +1,14 @@
 # 💜 You Made It! 💜
+### Dreamy has 8 followers 
 
+<img src="https://user-images.githubusercontent.com/53249146/95529167-34cdf280-09a8-11eb-9ae3-6e1cd0bc5190.jpg"  height="225" alt="skates" > 
 
-
-
-### Dreamy has 8 followers  
-<img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/53249146/95529167-34cdf280-09a8-11eb-9ae3-6e1cd0bc5190.jpg" alt="build your own octocat"> 
 
 <!--
 **Dreamy26/Dreamy26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Let me add you to the VIP list:
+### The HIT list:
 
 
 - 🧚 I’m currently tinkering on C# DotNet projects & learning with my SQUAD #cherryOnTech...
